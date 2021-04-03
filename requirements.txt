@@ -1,0 +1,5 @@
+Django==1.11.29
+gunicorn==20.1.0
+mysqlclient @ file:///C:/dev/django/mysqlclient-1.4.6-cp39-cp39-win_amd64.whl
+pytz==2021.1
+whitenoise==5.2.0
